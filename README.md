@@ -10,3 +10,5 @@
 👨🏻‍💻 Outside of school, I like to spend my time travelling to new places both internationally and nationally, and explore new technology, culture, sports, religion, meeting new people, dancing, singing and explore life with happiness and fun 🙋🏻‍♂️
 
 🌏 Moreover, I have to left the best education on this planet earth, thus and feel proud to say that currently am building myself in this field of education from one of the world's best Computer Science University, The University of Waterloo. I am also the only International Elite Award Recipient from my country, India 🌏
+
+![image title](https://rushter.com/counter.svg)
