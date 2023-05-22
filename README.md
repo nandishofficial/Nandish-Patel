@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandishofficial&label=Profile%20views&color=0e75b6&style=flat" alt="nandishofficial" /> </p>
 
+![image title](https://rushter.com/counter.svg)
+
 
 🙌 I am currently a Computer Science student in the Faculty of Mathematics at the University of Waterloo. I possess enthusiasm and zeal to explore and am always up to something be it a startup, clubs, volunteering, projects, or to help anyone 🙌
 
