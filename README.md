@@ -1,5 +1,5 @@
 # ⚡️ Nandish Patel (he/him) ⚡️
-👋🏻 Hello/Salut/Namastē/Hallo 👋🏻
+👋🏻 Hello/Salut/Namastē/Hallo/Ahoj 👋🏻
 
 ![image title](https://rushter.com/counter.svg)
 
